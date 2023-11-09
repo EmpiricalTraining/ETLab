@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/schtask_modification.zip
+https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/other/aptsimulator_cobaltstrike.zip
