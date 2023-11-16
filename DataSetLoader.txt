@@ -4,7 +4,6 @@ tuesday
 wednesday
 thursday
 https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/schtask_modification.zip
-https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/credential_access/host/psh_lsass_memory_dump_comsvcs.zip
 friday
 saturday
 sunday
