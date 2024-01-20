@@ -9,6 +9,6 @@ https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/
 friday
 https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/credential_access/host/psh_input_capture_promptforcreds.zip
 saturday
-https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/credential_access/host/psh_input_capture_promptforcreds.zip
+https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/persistence/host/proxylogon_ssrf_rce_poc.zip
 sunday
 https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/credential_access/host/psh_input_capture_promptforcreds.zip
