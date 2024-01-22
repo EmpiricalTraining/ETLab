@@ -1,5 +1,5 @@
 monday
-https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/persistence/host/proxylogon_ssrf_rce_poc.zip
+https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/schtask_create.zip
 tuesday
 
 wednesday
