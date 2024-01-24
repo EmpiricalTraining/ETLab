@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/
 tuesday
 
 wednesday
+https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/schtask_create.zip
 thursday
 
 friday
