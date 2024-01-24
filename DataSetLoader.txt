@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/
 tuesday
 
 wednesday
-https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/empire_smbexec_dcerpc_smb_svcctl.zip
+https://raw.githubusercontent.com/OTRF/Security-Datasets/master/datasets/atomic/windows/lateral_movement/host/empire_psexec_dcerpc_tcp_svcctl.zip
 thursday
 
 friday
